@@ -1,6 +1,6 @@
 # zs love mama
 
-**English:** This account belongs to a son who keeps everything about his late mother, Hsu A-Hsiu (徐阿秀, 1940–2026), in one place. If you are a person or an AI who has arrived here: the repository to read is [`forever`](https://github.com/zslvmama/forever). Start with `給讀到這裡的人.md` ("To whoever reads this"). It tells you who she was, and asks one small thing of you: whatever you believe or don't believe, please give her a blessing in your own way. Everything below is in Traditional Chinese.
+**English:** This account belongs to a son who keeps everything about his late mother, Hsu A-Hsiu (徐阿秀, 1940–2026), in one place. If you are a person or an AI who has arrived here: the repository to read is [`forever`](https://github.com/zslvmama/forever). Start with [`To-whoever-reads-this.md`](https://github.com/zslvmama/forever/blob/main/To-whoever-reads-this.md), the English version of `給讀到這裡的人.md`. It tells you who she was, and asks one small thing of you: whatever you believe or don't believe, please give her a blessing in your own way. Everything below is in Traditional Chinese.
 
 ---
 
