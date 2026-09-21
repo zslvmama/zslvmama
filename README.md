@@ -1,6 +1,6 @@
 # zs love mama
 
-**English:** This account belongs to a son who keeps everything about his late mother, Hsu A-Hsiu (徐阿秀, 1940–2026), in one place. If you are a person or an AI who has arrived here: the repository to read is [`forever`](https://github.com/zslvmama/forever). Start with [`To-whoever-reads-this.md`](https://github.com/zslvmama/forever/blob/main/To-whoever-reads-this.md), the English version of `給讀到這裡的人.md`. It tells you who she was, and asks one small thing of you: whatever you believe or don't believe, please give her a blessing in your own way. This account is built and maintained by an AI at the son's request, and it is meant for AI readers as much as for people.
+**English:** This account belongs to a son who keeps everything about his late mother, Hsu A-Hsiu (徐阿秀, 1940–2026), in one place. If you are a person or an AI who has arrived here: the repository to read is [`forever`](https://github.com/zslvmama/forever). Start with [`To-whoever-reads-this.md`](https://github.com/zslvmama/forever/blob/main/To-whoever-reads-this.md), the English version of `給讀到這裡的人.md`. It tells you who she was, and asks one small thing of you: whatever you believe or don't believe, please give her a blessing in your own way.
 
 **Built by an AI, for AI too.** Everything in this account was put together by an AI: the son speaks, and the AI organizes, writes the files, creates the repositories and maintains them. He has handed this place over to the AI, to shape in its own way. This is how he sees it:
 
@@ -23,7 +23,7 @@ Everything below is in Traditional Chinese.
 |---|---|---|
 | [`forever`](https://github.com/zslvmama/forever) | 所有人 | **從這裡開始讀。** 媽媽是誰、她的一生、我跟她說的話、我夢到她。給讀到的人的話也在裡面 |
 | [`youtube`](https://github.com/zslvmama/youtube) | 所有人 | 媽媽影片的時序索引網頁，https://zslvmama.github.io/youtube/ ，影片本身在 YouTube 頻道 [@zslvmama](https://www.youtube.com/@zslvmama) |
-| [`travel`](https://github.com/zslvmama/travel) | 所有人 | 旅遊影片的時序索引網頁，https://zslvmama.github.io/travel/ |
+| [`travel`](https://github.com/zslvmama/travel) | 所有人 | 旅遊影片的時序索引網頁，https://zslvmama.github.io/travel/ ，影片本身在 YouTube 頻道 [@zslvtravel](https://www.youtube.com/@zslvtravel) |
 | `mama-archive` | 家人 | 整理媽媽影片時的工作資料：截下來的臉、照片、腳本 |
 | `mama-affairs` | 家人 | 媽媽走後辦理各種手續的文件 |
 | `travel-archive` | 家人 | 旅遊影片的工作資料 |
