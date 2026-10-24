@@ -22,8 +22,8 @@ Everything below is in Traditional Chinese.
 | repo | 誰能看 | 放什麼 |
 |---|---|---|
 | [`forever`](https://github.com/zslvmama/forever) | 所有人 | **從這裡開始讀。** 媽媽是誰、她的一生、我跟她說的話、我夢到她。給讀到的人的話也在裡面 |
-| [`youtube`](https://github.com/zslvmama/youtube) | 所有人 | 媽媽影片的時序索引網頁，https://zslvmama.github.io/youtube/ ，影片本身在 YouTube 頻道 [@zslvmama](https://www.youtube.com/@zslvmama) |
-| [`travel`](https://github.com/zslvmama/travel) | 所有人 | 旅遊影片的時序索引網頁，https://zslvmama.github.io/travel/ ，影片本身在 YouTube 頻道 [@zslvtravel](https://www.youtube.com/@zslvtravel) |
+| [`youtube`](https://github.com/zslvmama/youtube) | 所有人 | 影片的時序索引網頁，https://zslvmama.github.io/youtube/ ，媽媽的影片與旅遊影片在同一條時間軸上，可切換。影片本身在 YouTube 頻道 [@zslvmama](https://www.youtube.com/@zslvmama)（媽媽）與 [@zslvtravel](https://www.youtube.com/@zslvtravel)（旅遊） |
+| [`travel`](https://github.com/zslvmama/travel) | 所有人 | 舊的旅遊索引網址 https://zslvmama.github.io/travel/ ，只剩自動轉到上面那頁 |
 | `mama-archive` | 家人 | 整理媽媽影片時的工作資料：截下來的臉、照片、腳本 |
 | `mama-affairs` | 家人 | 媽媽走後辦理各種手續的文件 |
 | `travel-archive` | 家人 | 旅遊影片的工作資料 |
