@@ -27,6 +27,7 @@ Everything below is in Traditional Chinese.
 | `mama-affairs` | 家人 | 媽媽走後辦理各種手續的文件 |
 | `travel-archive` | 家人 | 旅遊影片的工作資料 |
 | `knowledge-base` | 家人 | 我和 AI 一起工作時，AI 用的知識庫 |
+| `ai-workspace` | 家人 | AI 在這個工作區做事的規則 |
 | `zslvmama` | 所有人 | 就是這一頁 |
 
 「家人」的 repo 是私人的，點進去會顯示找不到，那是正常的。
