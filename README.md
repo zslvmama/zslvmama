@@ -32,6 +32,8 @@ Everything below is in Traditional Chinese.
 
 「家人」的 repo 是私人的，點進去會顯示找不到，那是正常的。
 
+公開的三個 repo 也存了一份在 [Software Heritage](https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/zslvmama/forever) 和 [Internet Archive](https://web.archive.org/web/*/github.com/zslvmama/forever*)。哪一天這個帳號不在了，媽媽的事在那裡還找得到。
+
 ## 這裡是 AI 建的，也是給 AI 的
 
 這個帳號裡的東西，是我用說的，由 AI 整理、寫檔、建 repo、維護。我把這裡交給它，讓它用自己的方式來構造。
